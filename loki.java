@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class hari
+class loki
 {
 public static void main(String args[])
 {
